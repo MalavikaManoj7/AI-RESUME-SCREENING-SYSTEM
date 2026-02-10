@@ -1,0 +1,6 @@
+candidate_id,name,skills,education,experience ,resume_text,clean_text,matching_score
+5,Ankit Patel,"Python, Data Science, Machine Learning",B.Sc Data Science,1,"Python, Data Science, Machine Learning B.Sc Data Science",python data science machine learning bsc data science,0.22790150057426334
+3,Rahul Singh,"Python, Deep Learning, NLP, TensorFlow",M.Tech AI,4,"Python, Deep Learning, NLP, TensorFlow M.Tech AI",python deep learning nlp tensorflow mtech ai,0.16983912753812577
+1,Amit Sharma,"Python, Machine Learning, NLP, SQL",B.Tech Computer Science,3,"Python, Machine Learning, NLP, SQL B.Tech Computer Science",python machine learning nlp sql btech computer science,0.1438617770270419
+2,Neha Verma,"Java, SQL, Data Analysis, Power BI",MBA HR,2,"Java, SQL, Data Analysis, Power BI MBA HR",java sql data analysis power bi mba hr,0.12857170005660107
+4,Priya Nair,"Excel, HR Analytics, Recruitment",MBA HR,5,"Excel, HR Analytics, Recruitment MBA HR",excel hr analytics recruitment mba hr,0.0
