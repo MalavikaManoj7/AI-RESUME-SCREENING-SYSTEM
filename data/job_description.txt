@@ -1,0 +1,3 @@
+We are looking for a candidate with strong knowledge of Python,
+Machine Learning, Natural Language Processing, and data analysis.
+Experience with AI models is preferred.
