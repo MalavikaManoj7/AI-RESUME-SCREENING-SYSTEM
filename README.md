@@ -19,3 +19,6 @@ and ranks candidates based on relevance.
 
 3. View ranked candidates in:
    results/ranked_candidates.csv
+
+# Live Demo
+🔗 https://ai-resume-screening-system.streamlit.app
